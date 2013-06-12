@@ -49,6 +49,7 @@
     "grunt-contrib-watch": "~0.4.4"
   },
   "devDependencies": {
-    "coffee-script": "1.6.x"
+    "coffee-script": "1.6.x",
+    "grunt-release": "~0.3.5"
   }
 }
